@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">MapData</string>
+    <string id="label_dist_to_dest">Dist.</string>
+    <string id="label_hr">HR</string>
+    <string id="label_speed">SPD</string>
+    <string id="label_grade">GRD</string>
+    <string id="label_time_ahead">Ahead</string>
+</strings>

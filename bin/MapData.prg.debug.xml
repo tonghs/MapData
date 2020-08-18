@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="8" lineNum="13" pc="268435531" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="8" lineNum="14" pc="268435535" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="8" lineNum="15" pc="268435545" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="8" lineNum="16" pc="268435555" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="8" lineNum="17" pc="268435565" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="9" lineNum="20" pc="268435576" symbol="updateEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="9" lineNum="21" pc="268435580" symbol="updateEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="9" lineNum="22" pc="268435614" symbol="updateEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="9" lineNum="23" pc="268435651" symbol="updateEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="9" lineNum="24" pc="268435720" symbol="updateEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="9" lineNum="25" pc="268435732" symbol="updateEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="9" lineNum="26" pc="268435748" symbol="updateEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="10" lineNum="29" pc="268435758" symbol="setInitialState"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="10" lineNum="29" pc="268435762" symbol="setInitialState"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="11" lineNum="31" pc="268435773" symbol="getLastEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="11" lineNum="31" pc="268435777" symbol="getLastEstimate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="12" lineNum="33" pc="268435787" symbol="updateProcessNoise"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="12" lineNum="37" pc="268435791" symbol="updateProcessNoise"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="12" lineNum="38" pc="268435821" symbol="updateProcessNoise"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="13" lineNum="41" pc="268435850" symbol="abs"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="13" lineNum="42" pc="268435854" symbol="abs"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="13" lineNum="42" pc="268435865" symbol="abs"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="13" lineNum="43" pc="268435878" symbol="abs"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="15" lineNum="74" pc="268435882" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="15" lineNum="75" pc="268435886" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="15" lineNum="77" pc="268435904" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="15" lineNum="78" pc="268435949" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="83" pc="268435995" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="84" pc="268435999" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="85" pc="268436042" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="86" pc="268436072" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="87" pc="268436108" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="88" pc="268436130" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="89" pc="268436166" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="92" pc="268436201" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="93" pc="268436231" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="94" pc="268436238" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="96" pc="268436274" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="97" pc="268436308" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="99" pc="268436321" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="100" pc="268436357" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="101" pc="268436379" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="105" pc="268436426" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="106" pc="268436478" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="107" pc="268436530" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="108" pc="268436582" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="109" pc="268436634" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="16" lineNum="110" pc="268436686" symbol="onLayout"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="117" pc="268436690" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="119" pc="268436694" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="120" pc="268436705" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="121" pc="268436718" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="123" pc="268436737" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="127" pc="268436753" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="128" pc="268436764" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="129" pc="268436777" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="131" pc="268436796" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="135" pc="268436812" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="136" pc="268436823" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="137" pc="268436836" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="139" pc="268436855" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="144" pc="268436871" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="146" pc="268436887" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="147" pc="268436913" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="149" pc="268436950" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="150" pc="268436967" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="151" pc="268436986" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="152" pc="268437005" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="153" pc="268437032" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="154" pc="268437068" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="156" pc="268437097" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="157" pc="268437119" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="17" lineNum="159" pc="268437150" symbol="compute"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="166" pc="268437170" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="168" pc="268437174" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="172" pc="268437217" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="173" pc="268437241" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="174" pc="268437248" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="175" pc="268437265" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="177" pc="268437298" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="179" pc="268437334" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="181" pc="268437348" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="182" pc="268437372" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="184" pc="268437406" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="185" pc="268437430" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="190" pc="268437470" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="191" pc="268437494" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="194" pc="268437534" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="195" pc="268437564" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="196" pc="268437600" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="197" pc="268437627" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="199" pc="268437654" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataView.mc" id="18" lineNum="203" pc="268437691" symbol="onUpdate"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataBackground.mc" id="20" lineNum="9" pc="268437712" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataBackground.mc" id="20" lineNum="10" pc="268437716" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataBackground.mc" id="20" lineNum="14" pc="268437737" symbol="initialize"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataBackground.mc" id="21" lineNum="17" pc="268437758" symbol="setColor"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataBackground.mc" id="21" lineNum="18" pc="268437762" symbol="setColor"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataBackground.mc" id="22" lineNum="21" pc="268437773" symbol="draw"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataBackground.mc" id="22" lineNum="22" pc="268437777" symbol="draw"/>
+<entry filename="/Users/tonghs/eclipse-workspace/MapData/source/MapDataBackground.mc" id="22" lineNum="23" pc="268437809" symbol="draw"/>
+<entry filename="Rez" id="28" lineNum="15" pc="268437822" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="17" pc="268437834" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="18" pc="268437847" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="20" pc="268437860" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="21" pc="268437884" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="22" pc="268438044" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="23" pc="268438204" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="24" pc="268438367" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="25" pc="268438530" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="26" pc="268438693" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="27" pc="268438856" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="28" pc="268439019" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="29" pc="268439182" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="30" pc="268439342" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="32" pc="268439502" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="13" symbol="err_estimate"/>
+<entry id="21" method="true" symbol="getLastEstimate"/>
+<entry field="true" id="43" symbol="vam"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="19" method="true" symbol="updateEstimate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="31" symbol="label_hr"/>
+<entry id="11" object="true" symbol="MapDataView"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="35" symbol="grade"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="36" symbol="time_ahead"/>
+<entry id="9" object="true" symbol="MapDataApp"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="26" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="39" symbol="tiny_label_array"/>
+<entry field="true" id="40" symbol="lastElapsedDistance"/>
+<entry field="true" id="8389130" symbol="mColor"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="30" symbol="label_grade"/>
+<entry field="true" id="32" symbol="AppName"/>
+<entry field="true" id="29" symbol="label_time_ahead"/>
+<entry id="10" object="true" symbol="SimpleKalmanFilter"/>
+<entry field="true" id="37" symbol="label_array"/>
+<entry field="true" id="27" symbol="label_dist_to_dest"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="17" symbol="last_estimate"/>
+<entry field="true" id="16" symbol="current_estimate"/>
+<entry field="true" id="25" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="18" symbol="kalman_gain"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="20" method="true" symbol="setInitialState"/>
+<entry field="true" id="33" symbol="dist_to_dest"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="8389923" symbol="distanceToDestination"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388963" symbol="altitude"/>
+<entry field="true" id="42" symbol="distanceKalmanFilter"/>
+<entry id="22" method="true" symbol="updateProcessNoise"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8388774" method="true" symbol="abs"/>
+<entry field="true" id="8388738" symbol="currentSpeed"/>
+<entry field="true" id="38" symbol="large_label_array"/>
+<entry field="true" id="8388734" symbol="elapsedDistance"/>
+<entry field="true" id="8388747" symbol="currentHeartRate"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="12" symbol="err_measure"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="8388958" symbol="speed"/>
+<entry id="23" module="true" symbol="Layouts"/>
+<entry field="true" id="14" symbol="qo"/>
+<entry field="true" id="28" symbol="label_speed"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="24" module="true" symbol="Menus"/>
+<entry field="true" id="34" symbol="heart_rate"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="15" symbol="q"/>
+<entry field="true" id="41" symbol="altitudeKalmanFilter"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435576" name="est_e" stackId="2" startPc="268435531"/>
+<entry endPc="268435576" name="mea_e" stackId="1" startPc="268435531"/>
+<entry endPc="268435576" name="_qo" stackId="3" startPc="268435531"/>
+<entry endPc="268435758" name="mea" stackId="1" startPc="268435576"/>
+<entry endPc="268435773" name="initial" stackId="1" startPc="268435758"/>
+<entry endPc="268435849" name="a" stackId="1" startPc="268435791"/>
+<entry endPc="268435882" name="value" stackId="1" startPc="268435850"/>
+<entry endPc="268436188" name="valueView" stackId="4" startPc="268436072"/>
+<entry endPc="268436188" name="labelView" stackId="3" startPc="268436072"/>
+<entry endPc="268436201" name="i" stackId="2" startPc="268436072"/>
+<entry endPc="268436413" name="valueView" stackId="8" startPc="268436231"/>
+<entry endPc="268436413" name="labelView" stackId="7" startPc="268436231"/>
+<entry endPc="268436413" name="delta" stackId="6" startPc="268436231"/>
+<entry endPc="268436426" name="i" stackId="5" startPc="268436231"/>
+<entry endPc="268436690" name="dc" stackId="1" startPc="268435995"/>
+<entry endPc="268437147" name="lastDistance" stackId="3" startPc="268436967"/>
+<entry endPc="268437147" name="lastAltitude" stackId="2" startPc="268436967"/>
+<entry endPc="268437147" name="currentDistance" stackId="5" startPc="268436967"/>
+<entry endPc="268437147" name="currentAltitude" stackId="4" startPc="268436967"/>
+<entry endPc="268437170" name="info" stackId="1" startPc="268436690"/>
+<entry endPc="268437678" name="value" stackId="8" startPc="268437564"/>
+<entry endPc="268437691" name="i" stackId="7" startPc="268437564"/>
+<entry endPc="268437711" name="grade_value" stackId="6" startPc="268437174"/>
+<entry endPc="268437711" name="dist_to_dest_value" stackId="2" startPc="268437174"/>
+<entry endPc="268437711" name="speed_value" stackId="5" startPc="268437174"/>
+<entry endPc="268437711" name="hr_value" stackId="4" startPc="268437174"/>
+<entry endPc="268437711" name="d2d_txt" stackId="3" startPc="268437174"/>
+<entry endPc="268437712" name="dc" stackId="1" startPc="268437170"/>
+<entry endPc="268437757" name="dictionary" stackId="1" startPc="268437716"/>
+<entry endPc="268437773" name="color" stackId="1" startPc="268437758"/>
+<entry endPc="268437822" name="dc" stackId="1" startPc="268437773"/>
+<entry endPc="268439619" name="rez_cmp_local_text_value_time_ahead" stackId="14" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_label_dist_to_dest" stackId="5" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_label_hr" stackId="7" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_label_time_ahead" stackId="13" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_value_grade" stackId="12" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_label_grade" stackId="11" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_value_speed" stackId="10" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_label_speed" stackId="9" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_custom_drawable_85060250117379072092" stackId="4" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_value_hr" stackId="8" startPc="268437834"/>
+<entry endPc="268439619" name="rez_cmp_local_text_value_dist_to_dest" stackId="6" startPc="268437834"/>
+<entry endPc="268439620" name="dc" stackId="1" startPc="268437822"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="SimpleKalmanFilter" type="class"/>
+<dataEntry offset="380" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="459" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="498" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="529" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="560" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="599" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="630" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="709" parentId="globals" symbolId="MapDataView" type="class"/>
+<dataEntry offset="892" parentId="globals" symbolId="MapDataApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="MapDataApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MapDataApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MapDataApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MapDataApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SimpleKalmanFilter">
+<param id="mea_e"/>
+<param id="est_e"/>
+<param id="_qo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updateEstimate" parent="SimpleKalmanFilter">
+<param id="mea"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setInitialState" parent="SimpleKalmanFilter">
+<param id="initial"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getLastEstimate" parent="SimpleKalmanFilter">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updateProcessNoise" parent="SimpleKalmanFilter">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="abs" parent="SimpleKalmanFilter">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MapDataView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MapDataView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="MapDataView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MapDataView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
